@@ -130,7 +130,7 @@ A Python-based voice assistant inspired by the idea of a personal AI assistant.
 - News
 - Image/text processing
 - Text-to-speech responses
-
+Use AI assistant here: https://github.com/AtharvDugani/JARVIS-AI-Voice-Assistant
 ---
 
 ### ⚙️ CPU Scheduling Simulator
@@ -144,21 +144,11 @@ A Java-based simulator for understanding CPU scheduling algorithms.
 - Round Robin
 
 The project also explores scheduling visualization using Gantt charts.
+You Can Check out This project on github: https://github.com/AtharvDugani/CPU_Scheduling_Algorithms
 
 ---
 
-### 📦 Inventory Management System
 
-An inventory management application designed around a small retail-shop scenario.
-
-**Technologies:**
-
-- Java
-- SQL
-
-The project focuses on managing products, inventory, and basic business operations.
-
----
 
 ## 📚 What I'm Currently Learning
 
