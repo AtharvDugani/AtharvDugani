@@ -120,7 +120,6 @@ A Python-based voice assistant inspired by the idea of a personal AI assistant.
 - Google Gemini API
 - Speech Recognition
 - Text-to-Speech
-- OpenCV
 - APIs
 
 **Features explored:**
