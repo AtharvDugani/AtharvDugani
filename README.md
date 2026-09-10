@@ -148,8 +148,6 @@ You Can Check out This project on github: https://github.com/AtharvDugani/CPU_Sc
 
 ---
 
-
-
 ## 📚 What I'm Currently Learning
 
 My current focus is on building stronger fundamentals rather than simply collecting technologies.
@@ -240,22 +238,6 @@ I prefer **learning by building projects** rather than only completing tutorials
 
 ---
 
-## 📊 GitHub Goals
-
-I want this GitHub profile to represent **actual work**, not just a list of technologies.
-
-My goals are to:
-
-- Build consistently
-- Write clean and understandable code
-- Document my projects
-- Contribute to open source
-- Collaborate with other developers
-- Share what I learn
-- Turn ideas into working projects
-
----
-
 ## 🌱 Beyond Code
 
 Technology isn't only about writing code.
@@ -273,11 +255,11 @@ I'm also interested in:
 
 ## 📫 Connect With Me
 
-**GitHub:** [Your GitHub Profile]
+**GitHub:** https://github.com/AtharvDugani
 
-**LinkedIn:** [Your LinkedIn Profile]
+**LinkedIn:** https://www.linkedin.com/in/atharv-dugani-6a5274234/
 
-**Email:** [Your Email]
+**Email:** duganiatharv@gmail.com
 
 ---
 
